@@ -1,0 +1,10 @@
+# Игнорировать файлы, заканчивающиеся на .log
+*.log
+
+# Игнорировать директорию "node_modules"
+node_modules/
+
+# Игнорировать файл "config.json"
+config.json
+
+*.env
