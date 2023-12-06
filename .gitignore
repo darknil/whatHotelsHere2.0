@@ -6,5 +6,5 @@ node_modules/
 
 # Игнорировать файл "config.json"
 config.json
-
+gi
 *.env
